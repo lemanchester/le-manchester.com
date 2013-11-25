@@ -10,7 +10,7 @@ Eu trabalho com desenvolvimento de software há 7 anos e já faz quase 6 anos qu
 
 Não me lembro exatamente como foi no início, apenas me recordo que uma das primeiras coisas que li foi a respeito de eXtreme Programming. Isso aconteceu quando encontrei o livro do [Vinicius Manhães Teles](http://improveit.com.br/xp/livroxp), e logo depois li sobre o Manifesto, Scrum e os variantes relacionados.
 
-Nesse período de 6 anos nunca fui um especialista em métodos ágeis, mas frequentei muitas conferências voltadas 100% a programação e dentre elas muitas com ênfase métodos ágeis. Nunca foi meu interesse ser um agilista, mas quem não quer melhorar seu processo de trabalho? Cheguei a ajudar implementar algumas ideias na [Hot Words](https://hotwords.com/) na durante um bom tempo, quando trabalhei lá. (Hoje não sei como eles estão em relação a isso.)
+Nesse período de 6 anos nunca fui um especialista em métodos ágeis, mas frequentei muitas conferências voltadas 100% a programação e dentre elas muitas com ênfase métodos ágeis. Nunca foi meu interesse ser um agilista, mas quem não quer melhorar seu processo de trabalho? Cheguei a ajudar implementar algumas ideias na [Hot Words](https://hotwords.com/) durante um bom tempo, quando trabalhei lá. (Hoje não sei como eles estão em relação a isso.)
 
 Após um período sabático e de experiências no exterior, comecei a trabalhar na [Locaweb](http://www.locaweb.com.br/default.html), um dos lugares mais conhecidos por ter adotado a metodologia praticamente em todas as áreas da empresa.
 
@@ -18,12 +18,12 @@ Trabalhei lá por praticamente 2 anos e além dos amigos que fiz, aprendi muitas
 
 Apesar disso, nunca senti que trabalhei em um ambiente onde conseguisse aproveitar 100% da idelogia ágil. Sempre ficou aquele gostinho de que faltava alguma coisa para ter aquele aproveitamento sempre descrito em palestras, livros, estudos.
 
-Hoje em dia faz 1 ano que trabalho na [Staunch Robots](http://staunchrobots.com/), uma consultoria americana com desenvolvedores destribuidos (Brasil, Colombia, Alemanha, Estados Unidos). A empresa é pequena e vivemos o dia a dia de uma startup, tentando sempre se redescobrir mais a cada dia. Trabalhamos com métodos ágeis, mas é claro, hoje em dia que não trabalha não é mesmo?
+Hoje em dia faz 1 ano que trabalho na [Staunch Robots](http://staunchrobots.com/), uma consultoria americana com desenvolvedores destribuidos (Brasil, Colombia, Alemanha, Estados Unidos). A empresa é pequena e vivemos o dia a dia de uma startup. Trabalhamos com métodos ágeis, mas é claro, hoje em dia quem não trabalha não é mesmo?
 
-Hoje ainda sinto aquele gostinho de que falta alguma coisa para ter aquele 100% de aproveitamento da ideologia, ainda mais agora, trabalhando remotamente. Isso acontece porque a dificuldade para se comunicar acaba sendo um pouco maior, não tem aquele "face to face", que a agilidade sempre prega, timezones bem distintos e barreiras de língua que sempre tornam o desafio maior.
+Hoje ainda sinto aquele gostinho de que falta alguma coisa para ter aquele 100% de aproveitamento da ideologia, ainda mais agora, trabalhando remotamente. Isso acontece porque a dificuldade para se comunicar acaba sendo um pouco maior, não tem aquele "face to face", que a agilidade sempre prega, timezones bem distintos e barreiras de idioma que sempre tornam o desafio maior.
 
 Minha busca para tentar entender e chegar nos 100%, me levou a um lugar já muito conhecido por mim, e por muitos da minha área, a [Caelum](http://www.caelum.com.br/).
-A Caelum fez parte da minha carreira desde sempre e principalmente dos diversos cursos que fiz lá. Até mesmo em eventos que eles sempre patrocinam, organizam, e até em conversas com o Paulo e o Guilherme Silveira, [Sérgio Lopes](http://sergiolopes.org/), e tantos outros amigos que chegaram a ser funcionários e professores.
+A Caelum fez parte da minha carreira desde o início, além de diversos eventos e comunidades que eles apoiam, patrocinam e organizam, como o [GUJ](http://www.guj.com.br/),  [CaleumDay](http://blog.caelum.com.br/caelumday-in-rio-2011-eu-fui/), [QConSP](http://www.qconsp.com/) até os diversos cursos em que me formei, sem contar ainda inumeras conversas com o Paulo e o Guilherme Silveira, [Sérgio Lopes](http://sergiolopes.org/), e tantos outros amigos que chegaram a ser funcionários e professores.
 
 O curso que participei foi ministrado pela [Suelen Carvalho](http://www.suelengc.com.br/), que se demostrou estar bem engajada no assunto. O curso é bem interessante e me ajudou a entender e enxegar mais sobre o assunto, além de poder trocar experiências com as outras pessoas da classe, que vivem situações diferentes.
 
@@ -53,7 +53,7 @@ Após o exercício, a aula acabou e fomos embora, conversando e dando risadas so
 
 Brincaram bastante comigo, pois eu era o único programador no time de PO's e fui eu quem, na primeira especificação do exercicio usei a palavra: funcionalidade. Sendo que aparentemente a palavra produto faria mais sentido, ou até mesmo no melhor dos casos, poderíamos ter usado a palavra figura.
 
-Zueiras a parte, o que me chamou atenção na nossa "retrospectiva" da brincadeira, foi que ninguém assumiu o erro como um erro do time. Éramos 4 PO's, de acordo com a especificação, e o erro foi do time, era responsabilidade do time manter um certo o documento.
+Zoeiras a parte, o que me chamou atenção na nossa "retrospectiva" da brincadeira, foi que ninguém assumiu o erro como um erro do time. Éramos 4 PO's, de acordo com a especificação, e o erro foi do time, era responsabilidade do time manter um certo documento.
 
 Apesar de ser uma brincadeira, e não um caso real, qual é a diferença? Se no nosso dia a dia ou até mesmo num momento de descontração, não conseguimos admitir um erro como um time, sendo mais fácil apontar um culpado, como vamos querer aplicar isso em nossas vidas profissionais?
 

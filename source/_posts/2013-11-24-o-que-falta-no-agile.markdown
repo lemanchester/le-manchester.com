@@ -1,4 +1,4 @@
----
+P---
 layout: post
 title: "O que falta no agile"
 date: 2013-11-24 21:26:38 -0200
@@ -27,13 +27,13 @@ A Caelum fez parte da minha carreira desde o início, além de diversos eventos 
 
 O curso que participei foi ministrado pela [Suelen Carvalho](http://www.suelengc.com.br/), que se demostrou estar bem engajada no assunto. O curso é bem interessante e me ajudou a entender e enxegar mais sobre o assunto, além de poder trocar experiências com as outras pessoas da classe, que vivem situações diferentes.
 
-Em um dos útimos aconteceu algo que me fez pensar bastante e perceber uma das principais coisas que vejo sendo uma das principais barreiras no aproveitamento 100% do ágile. Primeiro de tudo, a sala foi dividida em 2 grandes grupos para participarem de um exercício. Apesar da professora nunca ter falado explicitamente que era uma competição, o ato de dividir uma sala em 2 grupos intrinsecamente cria uma rivalidade e um desejo de fazer melhor que o outro.
+Em um dos útimos aconteceu algo que me fez pensar bastante e perceber uma das principais coisas que vejo sendo uma das principais barreiras no aproveitamento 100% dos métodos ágeis. Primeiro de tudo, a sala foi dividida em 2 grandes grupos para participarem de um exercício. Apesar da professora nunca ter falado explicitamente que era uma competição, o ato de dividir uma sala em 2 grupos intrinsecamente cria uma rivalidade e um desejo de fazer melhor que o outro.
 
-O exercício consistia em: 2 minutos para um grupo de 4 pessoas, representadas como PO's, tinham que descrever a historias de um "Produto", neste caso era um pedaço de papel com 5 desenhos. Enquanto isso 3 outras pessoas ficaram do lado de fora da sala, e representavam os desenvolvedores.
+O exercício consistia em: 2 minutos para um grupo de 4 pessoas, representadas como [Product Owner's](http://desenvolvimentoagil.com.br/scrum/product_owner), tinham que descrever a historias de um "Produto", neste caso era um pedaço de papel com 5 desenhos. Enquanto isso 3 outras pessoas ficaram do lado de fora da sala, representando os desenvolvedores.
 
-Sendo desenvolvedor no dia a dia, escolhi ficar no time dos PO's e vivenciar um pouco o outro lado da moeda.
+Sendo desenvolvedor no dia a dia, escolhi ficar no time dos PO's (Product Owners) e vivenciar um pouco o outro lado da moeda.
 
-Quando vimos o que tínhamos que escrever, admito que achei que, todos no grupo ficaram um pouco confusos por causa do desenhos, mas começamos discutir e no final acabamos escrevendo o seguinte:
+Quando vimos o que tínhamos que escrever, admito que achei que, todos no grupo ficaram um pouco confusos por causa dos desenhos, mas começamos discutir e no final acabamos escrevendo o seguinte:
 
 Desenhe 5 prod..... funcionalidades
 
@@ -45,15 +45,15 @@ Após o termino de 2 minutos, os programadores do lado de fora, entraram e tamb�
 
 O resultado foi um caos é claro, obtivemos uma média de 20% do que era Produto final.
 
-Refizemos o exercicio com 4 minutos ao total e os PO's descrevendo (sem gestos ou desenhos, apenas com comunicação oral) novas funcionalidade a serem desenhadas. No final obtivemos um resultado muito melhor, com 80% do que era o produto final, sendo que este era um pouco mais complexo.
+Refizemos o exercicio com 4 minutos ao total e os PO's descrevendo (sem gestos ou desenhos, apenas com comunicação oral) novas "funcionalidades" a serem desenhadas. No final obtivemos um resultado muito melhor, com 80% do que era o produto final, sendo que este era um pouco mais complexo.
 
-O exercicio foi execelente e mostrou claramente como a comunicação é importante no dia a dia com seu cliente e [Product Owner](http://desenvolvimentoagil.com.br/scrum/product_owner).
+O exercicio foi execelente e mostrou claramente como a comunicação é importante no dia a dia entre o Cliente, Product Owner e os Desenvolvedores.
 
-Após o exercício, a aula acabou e fomos embora, conversando e dando risadas sobre o exercicio e eis que aconteceu algo que me chamou atenção:
+Após o exercício, a aula acabou e fomos embora, conversando e dando risadas sobre o exercício e eis que aconteceu algo que me chamou atenção:
 
-Brincaram bastante comigo, pois eu era o único programador no time de PO's e fui eu quem, na primeira especificação do exercicio usei a palavra: funcionalidade. Sendo que aparentemente a palavra produto faria mais sentido, ou até mesmo no melhor dos casos, poderíamos ter usado a palavra figura.
+Brincaram bastante comigo, pois eu era o único programador no time de PO's e fui eu quem, na primeira especificação do exercicio usei a palavra: funcionalidade. Sendo que aparentemente a palavra produto faria mais sentido, ou até mesmo no melhor dos casos, poderíamos ter usado a palavra figura ou desenho.
 
-Zoeiras a parte, o que me chamou atenção na nossa "retrospectiva" da brincadeira, foi que ninguém assumiu o erro como um erro do time. Éramos 4 PO's, de acordo com a especificação, e o erro foi do time, era responsabilidade do time manter um certo documento.
+Zoeiras a parte, o que me chamou atenção na nossa "retrospectiva" da brincadeira, foi que ninguém assumiu o erro como um erro do time. Éramos 4 PO's, de acordo com a especificação, e o erro foi do time, era responsabilidade do time manter o documento correto e de fácil compreensão.
 
 Apesar de ser uma brincadeira, e não um caso real, qual é a diferença? Se no nosso dia a dia ou até mesmo num momento de descontração, não conseguimos admitir um erro como um time, sendo mais fácil apontar um culpado, como vamos querer aplicar isso em nossas vidas profissionais?
 
@@ -68,4 +68,7 @@ Eu humildemente adicionaria:
 
 Trabalhar em equipe não é uma virtudade, é uma escolha e é uma escolha ainda mais difícil. Quando as coisas estão ruins, quando o projeto esta atrasado, pressão do cliente, bugs, falhas de comunicação, é sempre mais fácil apontar um culpado.
 
-Esse tipo de coisa que sempre acontece na vida real e que por mais que tentemos nos blindar com metodologias ou frameworks, o que na verdade predomina é a confiança. O comprometimento do time e a busca por melhoria é, sem dúvida, o que está por trás do manifesto agil, é possuindo esse tipo de cultura na sua empresa que vai te proporcionar a chance de obter um aproveitamento de 100%.
+Esse tipo de coisa que sempre acontece na vida real e que por mais que tentemos nos blindar com metodologias ou frameworks, o que na verdade predomina é a confiança. O comprometimento do time e a busca por melhoria é, sem dúvida, o que está por trás do manifesto ágil, é possuindo esse tipo de cultura na sua empresa que vai te proporcionar a chance de obter um aproveitamento de 100%.
+
+O que falta no Agile é a compreensão da cultura escrita por trás dele, e não especificamente de um framework ou metodologia.
+
